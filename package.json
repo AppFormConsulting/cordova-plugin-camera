@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "4.1.0-dev",
-  "description": "Cordova Camera Plugin",
+  "name": "af-cordova-plugin-camera",
+  "version": "4.1.1",
+  "description": "AF Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-camera",
+    "id": "af-cordova-plugin-camera",
     "platforms": [
       "android",
       "ios",
